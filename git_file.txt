@@ -1,1 +1,2 @@
-Thi is the first line of text
+Thi is the modified first line of text
+I added a new line
